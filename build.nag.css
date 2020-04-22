@@ -1,10 +1,29 @@
-#back {background-image:url(bg-home.png); background-repeat:no-repeat;}
-#mar {font:Arial, Helvetica, sans-serif; color:#FFF;}
-#icon {width:18.667in; height:0.737in; float:left;}
-#links {float:left; width:18.667in; height:2in; margin-top:470px;}
-#hardware {margin-top:20px; float:left; margin-right:30px; margin-left:170px;}
-#programs {margin-top:20px; float:left; margin-right:30px;}
-#tutorials {margin-top:20px; float:left; margin-right:30px;}
-#designs {margin-top:20px; float:left; margin-right:30px;}
-#nagln {margin-top:20px; float:left;}
-#socialmedia {float:right; margin-top:90px; margin-right:100px;}
+#back 					{background-image:url(bg-home.png);
+	     					 background-repeat:no-repeat;}
+/*#mar 			 			{font:Arial, Helvetica, sans-serif;
+	    					 color:#FFF;}*/
+#icon 		 			{width:18.667in;
+	     					 height:0.737in;
+			 				 	 float:left;}
+#links 	 				{float:left;
+	  						 width:18.667in;
+								 height:2in;
+								 margin-top:470px;}
+#hardware 			{margin-top:20px;
+					 			 float:left;
+					 		 	 margin-right:30px;
+					 		 	 margin-left:170px;}
+#programs 			{margin-top:20px;
+					 			 float:left;
+					 		 	 margin-right:30px;}
+#tutorials 			{margin-top:20px;
+					  		 float:left;
+								 margin-right:30px;}
+#designs 				{margin-top:20px;
+				  			 float:left;
+								 margin-right:30px;}
+#nagln 	 				{margin-top:20px;
+								 float:left;}
+#socialmedia 		{float:right;
+								 margin-top:90px;
+								 margin-right:100px;}
