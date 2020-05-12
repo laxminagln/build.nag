@@ -1,5 +1,5 @@
 build.nag
 
-https://laxminagln.github.io/build.nag/
+http://buildnag.live/
 
 A website to showcase my projects
