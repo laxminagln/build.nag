@@ -15,6 +15,8 @@
 #con			 	{margin-top: 60px;}
 #cont 				{margin-left: 100px;
 				color: white;
+				border-style: solid;
+				border-color: cyan;
 				text-decoration: none;}
 #links 				{width:2.292in;
 				height:7.25in;
