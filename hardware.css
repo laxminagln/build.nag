@@ -15,16 +15,10 @@
 #con			 	{margin-top: 60px;}
 #cont 				{margin-left: 100px;
 				color: white;
-				border-style: solid;
-				border-color: cyan;
-				border-radius: 5px;
-				height: 100px;
-				width: 40px;
 				text-decoration: none;}
 #links 				{width:2.292in;
 				height:7.25in;
-				float:right;
-				margin-right: 20px;}
+				float:right;}
 #hardware 			{margin-top:20px;
 				float:right;
 				margin-right:20px;}
