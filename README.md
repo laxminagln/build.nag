@@ -1,5 +1,5 @@
 build.nag
 
-http://buildnag.live/
+https://buildnag.live/
 
 A website to showcase my projects
