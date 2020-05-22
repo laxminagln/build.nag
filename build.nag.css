@@ -1,18 +1,18 @@
 #back 					{background-image:url(bg-home.png);
-	     					 background-repeat:no-repeat;}
-/*#mar 			 			{font:Arial, Helvetica, sans-serif;
-	    					 color:#FFF;}*/
+	     				background-repeat:no-repeat;}
+/*#mar 			 		{font:Arial, Helvetica, sans-serif;
+	    				color:#FFF;}*/
 #icon 		 			{width:18.667in;
-	     					 height:0.737in;
-			 				 	 float:left;}
+	     				height:0.737in;
+			 		float:left;}
 #links 	 				{float:left;
-	  						 width:18.667in;
-								 height:2in;
-								 margin-top:500px;}
-#hardware 			{margin-top:20px;
-					 			 float:left;
-					 		 	 margin-right:30px;
-					 		 	 margin-left:170px;}
+	  				width:18.667in;
+					height:2in;
+					margin-top:500px;}
+#hardware 				{margin-top:20px;
+					float:left;
+					margin-right:30px;
+					margin-left:170px;}
 #programs 			{margin-top:20px;
 					 			 float:left;
 					 		 	 margin-right:30px;}
